@@ -1,0 +1,14 @@
+# Python environment / cache
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vector database
+vector_db/
+chroma/
+chroma.sqlite3
+
+# Git ignore itself
+.gitignore

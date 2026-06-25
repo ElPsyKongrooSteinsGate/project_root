@@ -1,0 +1,159 @@
+{
+  "policy": {
+    "policy_name": "Human Resources Management",
+    "policy_description": "Establish guidelines for managing recruitment, employee relations, performance management, and workplace policies through the HR department.",
+    "roles_responsibilities": {
+      "HR Manager": "Oversee HR operations, ensure compliance with labor laws, and implement HR policies.",
+      "HR Staff": "Handle recruitment, onboarding, employee records, and employee relations activities.",
+      "Department Managers": "Work with HR in hiring, evaluating employee performance, and resolving workplace issues.",
+      "Employees": "Follow HR policies, maintain professional conduct, and participate in HR programs when required."
+    },
+    "scope_applicability": [
+      {
+        "department": "All employees of the organization",
+        "role": "Unknown Role"
+      },
+      { "department": "HR department personnel", "role": "Unknown Role" },
+      {
+        "department": "Managers and supervisors involved in employee management",
+        "role": "Unknown Role"
+      },
+      {
+        "department": "All HR-related processes including recruitment, onboarding, performance evaluation, and employee relations",
+        "role": "Unknown Role"
+      }
+    ],
+    "procedure_steps": [
+      {
+        "description": "Identify staffing needs and initiate recruitment processes.",
+        "risk": "UNKNOWN",
+        "data_required": []
+      },
+      {
+        "description": "Conduct fair and transparent hiring and onboarding procedures.",
+        "risk": "UNKNOWN",
+        "data_required": []
+      },
+      {
+        "description": "Maintain accurate employee records and documentation.",
+        "risk": "UNKNOWN",
+        "data_required": []
+      },
+      {
+        "description": "Provide training and development opportunities for employees.",
+        "risk": "UNKNOWN",
+        "data_required": []
+      },
+      {
+        "description": "Manage employee performance reviews and feedback cycles.",
+        "risk": "UNKNOWN",
+        "data_required": []
+      },
+      {
+        "description": "Address employee concerns, grievances, and workplace conflicts.",
+        "risk": "UNKNOWN",
+        "data_required": []
+      },
+      {
+        "description": "Ensure compliance with labor laws and company regulations.",
+        "risk": "UNKNOWN",
+        "data_required": []
+      }
+    ]
+  },
+  "plan": [
+    {
+      "lh": "Ensure fair and transparent hiring processes",
+      "steps": [
+        {
+          "Risk": "UNKNOWN",
+          "Controls": [
+            {
+              "Control_Object": "Ensure fair and transparent hiring processes Control",
+              "Control_Type": "Preventative",
+              "Purpose": "Mitigate risks for Ensure fair and transparent hiring processes",
+              "Scope": {
+                "Department": "All",
+                "Department_Role": "Responsible",
+                "Department_Role_Scope": "Full",
+                "Document_used": "Policy Document"
+              }
+            }
+          ],
+          "Recommendation": "Analyze and implement measures for Ensure fair and transparent hiring processes",
+          "Data_Requirements": ["Evidence or records to validate controls"]
+        }
+      ]
+    },
+    {
+      "goal": "Maintain accurate employee records",
+      "steps": [
+        {
+          "Risk": "UNKNOWN",
+          "Controls": [
+            {
+              "Control_Object": "Maintain accurate employee records Control",
+              "Control_Type": "Preventative",
+              "Purpose": "Mitigate risks for Maintain accurate employee records",
+              "Scope": {
+                "Department": "All",
+                "Department_Role": "Responsible",
+                "Department_Role_Scope": "Full",
+                "Document_used": "Policy Document"
+              }
+            }
+          ],
+          "Recommendation": "Analyze and implement measures for Maintain accurate employee records",
+          "Data_Requirements": ["Evidence or records to validate controls"]
+        }
+      ]
+    },
+    {
+      "goal": "Provide continuous training and development opportunities for employees",
+      "steps": [
+        {
+          "Risk": "UNKNOWN",
+          "Controls": [
+            {
+              "Control_Object": "Provide continuous training and development opportunities for employees Control",
+              "Control_Type": "Preventative",
+              "Purpose": "Mitigate risks for Provide continuous training and development opportunities for employees",
+              "Scope": {
+                "Department": "All",
+                "Department_Role": "Responsible",
+                "Department_Role_Scope": "Full",
+                "Document_used": "Policy Document"
+              }
+            }
+          ],
+          "Recommendation": "Analyze and implement measures for Provide continuous training and development opportunities for employees",
+          "Data_Requirements": ["Evidence or records to validate controls"]
+        }
+      ]
+    },
+    {
+      "goal": "Address employee concerns and workplace conflicts promptly",
+      "steps": [
+        {
+          "Risk": "UNKNOWN",
+          "Controls": [
+            {
+              "Control_Object": "Address employee concerns and workplace conflicts promptly Control",
+              "Control_Type": "Preventative",
+              "Purpose": "Mitigate risks for Address employee concerns and workplace conflicts promptly",
+              "Scope": {
+                "Department": "All",
+                "Department_Role": "Responsible",
+                "Department_Role_Scope": "Full",
+                "Document_used": "Policy Document"
+              }
+            }
+          ],
+          "Recommendation": "Analyze and implement measures for Address employee concerns and workplace conflicts promptly",
+          "Data_Requirements": ["Evidence or records to validate controls"]
+        }
+      ]
+    }
+  ],
+  "policy_risk": "MEDIUM"
+}
